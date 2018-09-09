@@ -1,6 +1,6 @@
 # CyberRebeatCTF  Writeup by 氷影
-  in 2018/09/08 15:00 - 2018/09/09 15:00  
-  <https://cyberrebeat.adctf.online/>
+  <https://cyberrebeat.adctf.online/>  
+  in 2018/09/08 15:00 - 2018/09/09 15:00
 * ## Exercise
     * ### [Exercise](https://cyberrebeat.adctf.online/ja/contests/2/problems/16)  
         問題文に表示されている文字列をFlagとしてsubmitするだけ。  
