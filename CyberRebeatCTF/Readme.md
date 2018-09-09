@@ -25,16 +25,16 @@
   
     * ### [CyberRebeatScripts](https://cyberrebeat.adctf.online/ja/contests/2/problems/19)  
         GitHubを知ってるかと言われた。CyberRebeatは同人ゲームである。GitHubにソースコードかなにか上がっているかなと思ってググる。  
-        あった。<https://github.com/ennach/CyberRebeatScripts>   
+        [あった。](https://github.com/ennach/CyberRebeatScripts)   
         上がっているファイルにはFlagが見当たらなかったのでいろいろ探したら、コミットログにdelete Flagとあったのでそこを覗く。  
-        ありました。<https://github.com/ennach/CyberRebeatScripts/commit/86cc1779522ad0708ad0b829935b08ac42b2588d>  
+        [ありました。](https://github.com/ennach/CyberRebeatScripts/commit/86cc1779522ad0708ad0b829935b08ac42b2588d)  
         Flag:`CRCTF{I cut down her gag in a single strike}`
   
     * ### [ChangeHistory](https://cyberrebeat.adctf.online/ja/contests/2/problems/21)
         これもGitHubを見る問題。同じアカウントのChangeHistoryのコミットログを見ると、TODO mistake云々書いてある。  
-        <https://github.com/ennach/ChangeHistory/issues/1>   
+        [TODO](https://github.com/ennach/ChangeHistory/issues/1)   
         Hashを間違えたらしいのでそのハッシュで#1 commit againのURLを書き換えるとplain textsが復元できる。  
-        <https://github.com/ennach/ChangeHistory/commit/c476614bc439fe1910e494422b3aa207b776d486>  
+        [plain texts](https://github.com/ennach/ChangeHistory/commit/c476614bc439fe1910e494422b3aa207b776d486)  
         Flag:`CRCTF{the timer is set to 120 seconds}`
   
 * ## Stegano
